@@ -154,7 +154,7 @@ http://localhost:8080
 
 Bloomly uses Spring Security and JWT Authentication to protect API endpoints. Passwords are encrypted before storage, ensuring user data remains secure.
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 * Mood Analytics Dashboard
 * Journal Search and Filtering
@@ -179,7 +179,7 @@ This project helped in understanding:
 * Layered Architecture
 * Secure Backend Development
 
-## 👩‍💻 Author
+## Author
 
 **Zoya Khanam**
 
